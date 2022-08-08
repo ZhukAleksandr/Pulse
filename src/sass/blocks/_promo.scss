@@ -27,7 +27,7 @@
         margin-top: 60px;
         width: 425px;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-between;        
     }
     &__icon {
         width: 108px;
@@ -35,11 +35,11 @@
         color: #FFFFFF;
         font-weight: 500;
         font-size: 14px;
-        line-height: 14px;
+        line-height: 14px;        
         img {
             display: block;
             margin: 0 auto;
-            margin-bottom: 20px;
+            margin-bottom: 20px;                       
         }
     }
     &__link {
